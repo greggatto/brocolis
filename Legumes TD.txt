@@ -1,0 +1,19 @@
+Towers
+- Range
+- Damage
+- Rate of Fire
+- AoE (Se tem ou não, se sim, quanto?)
+- Special abilities (wind-up time, long range, can't attack close units, generate coins and can't attack, ...)
+- Price to upgrade (to lvl 2 and to lvl 3)
+- Price to fuse (two lvl 3 towers)
+
+Enemies
+- Speed
+- HP
+- Special abilities (resistence, speed loss to turn, slowly building up speed, only takes damage from behind, ...)
+- Currency dropped per kill
+
+Others
+- Kill streak (extra currency per kill)
+- Levels giving stars ->> Use stars to buy new towers and such
+- Upgrade towers outside the battle to change how they behave in-battle
